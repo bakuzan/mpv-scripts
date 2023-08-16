@@ -151,6 +151,7 @@ end
 function C.refresh_globals()
     pos = mp.get_property_number('playlist-pos', 0)
     plen = mp.get_property_number('playlist-count', 0)
+    cursor = pos
 end
 
 --#region Filename Utils
