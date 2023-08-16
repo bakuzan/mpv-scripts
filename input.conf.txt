@@ -1,0 +1,3 @@
+KEY script-message bkz-mpvenhancer show filename 2
+KEY script-message bkz-mpvenhancer show playlist
+KEY script-message bkz-mpvenhancer shuffle
